@@ -1,0 +1,6 @@
+{
+  "name": "Mistral Vibe Assistant",
+  "description": "Um assistente de IA com interface minimalista, ultra imersiva e animação 3D suave.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
